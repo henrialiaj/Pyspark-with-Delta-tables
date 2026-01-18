@@ -15,8 +15,7 @@ The repository includes **Jupyter notebooks**, sample **raw CSVs**, and Delta ta
 | `data/raw_csvs`      | Sample raw CSV datasets used for ingestion (Bronze layer). |
 | `delta`              | Delta tables generated during transformations (Silver/Gold layers). |
 | `notebooks`          | Jupyter notebooks with PySpark code for ETL workflows. |
-| `images`             | Diagrams or visuals explaining architecture and workflows. |
-| `requirements.txt`   | Python dependencies required to run the project. |
+| `images`             | Diagrams or visuals explaining dependencies. |
 | `README.md`          | Documentation for setup, usage, and contribution guidelines. |
 
 ---
@@ -36,3 +35,4 @@ The repository includes **Jupyter notebooks**, sample **raw CSVs**, and Delta ta
 - Python 3.11 
 - Apache Spark (with PySpark)  
 - Delta Lake libraries  4.11
+
